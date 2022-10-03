@@ -5,7 +5,7 @@
 <p align="center"> 
 <a href="https://www.linkedin.com/in/nmonopoli/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Nicolas_Monopoli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nmonopoli/"></a>
 <a href="https://instagram.com/n.monopoli"><img alt="Instagram" src="https://img.shields.io/badge/-nmonopoli-1ca0f1?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/n.monopoli"></a>
-<a href="https://github.com/nmonopoli"><img alt="Github" src="https://img.shields.io/badge/-nmonopoli-blue?style=flat-square&logo=github&logoColor=white&link=https://github.com/nmonopoli"></a>
+<a href="https://nmonopoli.github.io/"><img alt="Github" src="https://img.shields.io/badge/-nmonopoli-blue?style=flat-square&logo=github&logoColor=white&link=https://nmonopoli.github.io/"></a>
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
