@@ -5,25 +5,14 @@
 <p align="center"> 
 <a href="https://www.linkedin.com/in/nmonopoli/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Nicolas_Monopoli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nmonopoli/"></a>
 <a href="https://instagram.com/nmonopoli"><img alt="Instagram" src="https://img.shields.io/badge/-nmonopoli-1ca0f1?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/nmonopoli"></a>
-<a href="https://dev.to/sulthannk"><img alt="Dev Community" src="https://img.shields.io/badge/-SulthanNK-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/sulthannk"></a>
+<a href="https://github.com/nmonopoli"><img alt="Github" src="https://img.shields.io/badge/-nmonopoli-blue?style=flat-square&logo=github&logoColor=white&link=https://github.com/nmonopoli"></a>
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
--  **Working :**  Web Development :computer: | Cloud :cloud: 
--  **Learning :** Full-Stack :zap: | Open-Source :fire:	
--  **Hobbies :** Books :books: | Music :headphones:
+-  **Working :**  UI5 Developer :computer:
+-  **Learning :** React :zap:
+-  **Hobbies :** Futbol :soccer: | Movies :tv:
 -  **Ask me about :** Anything!, I'm happy to help :v:
--  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
--  **Pronouns :** He/Him/His :innocent:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### ✨ Visitors 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SulthanNK" alt="SulthanNK" /> </p>
-
-### 📊 Profile stats
-
-[![SulthanNK's github stats](https://github-readme-stats.vercel.app/api?username=SulthanNK&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/SulthanNK/github-readme-stats)
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
