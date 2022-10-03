@@ -1,6 +1,6 @@
-<h1 align="center"> Hi, I'm Nicolas Monopoli 👨‍💻 </h1>
+<h1 align="center"> Hi, I'm Nicolas Monopoli 👨‍💻</h1>
 
-<h3 align="center">  Software Engineer | UI5 Developer </h3> <br>
+<h3 align="center"> Software Engineer | UI5 Developer </h3> <br>
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/nmonopoli/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Nicolas_Monopoli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nmonopoli/"></a>
